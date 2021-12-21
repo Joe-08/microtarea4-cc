@@ -3,6 +3,8 @@ Microtarea 4 de Cloud Computing
 
 ## Dataset de pruebas
 
+![Imagen 1](img1.jpeg)
+
 ## Escalabilidad Vertical
 
 Para poder aumentar o disminuir la cantidad de pods utilizando StatefulSet se hace con el siguiente comando:
@@ -10,6 +12,7 @@ Para poder aumentar o disminuir la cantidad de pods utilizando StatefulSet se ha
 ```
 kubectl scale --replicas=4 statefulset/cassandra
 ```
+![Imagen 2](img2.jpeg)
 
 ## Escalabilidad Horizontal
 
