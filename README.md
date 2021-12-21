@@ -26,7 +26,7 @@ Para aumentar o disminuir la cantidad de nodos utilizando k8ssandra es:
 
 ## Conclusiones
 
-Cassandra es una base de datos escalable que nos permite separar la información a través de keys especificados por el usuario
+Cassandra es una base de datos escalable que nos permite separar la información a través de keys especificados por el usuario, y con minikube y k8ssandra podemos configurar y desplegar cassandra en kubernetes.
 
 ### Integrantes
 - Joe Acuña
